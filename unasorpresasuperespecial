@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Una sorpresa super especial</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Enviando un abrazo virtual</h1>
+        <h2>Quiero que sepas que te quiero y te amo mucho, que aunque soy medio babas y asi, siempre podras contar conmigo, apesar de que no llegue a entender aveces la situacion de x tema, siempre voy a tratar de procurar hacerte sentir mejor, porque eres una persona mega importante para mi, la cual no pense que podria llegarme a importar tanto al grado de tener mucho cariño pero a la vez miedo de no lastimarla, y cada dia hare mi mejor esfurzo para demostrate lo mucho que me importas y que no hare algo malo que a tus ojos te pueda herir</h2>
+        <img src="litlle person.svg" alt="">
+        
+        <p id="loading-message">Cargando...</p>
+        <div class="box">
+            <div class="box_loading">
+                
+            </div>
+
+        </div>
+    </div>
+       
+    <script src="script.js"></script>
+</body>
+</html>
